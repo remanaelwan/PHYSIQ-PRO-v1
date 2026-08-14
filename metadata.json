@@ -1,0 +1,6 @@
+{
+  "name": "PhysIQ – AI Fitness & Recovery Platform",
+  "description": "AI-powered fitness, muscle recovery, nutrition intelligence, and interactive anatomical body analytics platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
